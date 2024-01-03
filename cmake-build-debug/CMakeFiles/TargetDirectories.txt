@@ -1,0 +1,3 @@
+C:/Users/somec/Desktop/C++ Final Project Stuff/Grade Calculation Program/cmake-build-debug/CMakeFiles/PROG2100_Final_Project.dir
+C:/Users/somec/Desktop/C++ Final Project Stuff/Grade Calculation Program/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/somec/Desktop/C++ Final Project Stuff/Grade Calculation Program/cmake-build-debug/CMakeFiles/rebuild_cache.dir

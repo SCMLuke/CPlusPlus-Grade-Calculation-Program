@@ -1,0 +1,12 @@
+//
+// Created by somec on 11/22/2023.
+//
+
+#ifndef PROG2100_FINAL_PROJECT_PRINTINTRO_H
+#define PROG2100_FINAL_PROJECT_PRINTINTRO_H
+
+
+void printIntro();
+
+
+#endif //PROG2100_FINAL_PROJECT_PRINTINTRO_H
